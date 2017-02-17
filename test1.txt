@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is EA25-A1D1
-
- Directory of C:\Testing\GIT\MyProject
-
-02/17/2017  01:25 PM    <DIR>          .
-02/17/2017  01:25 PM    <DIR>          ..
-02/17/2017  01:25 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  91,463,385,088 bytes free
+change 1
